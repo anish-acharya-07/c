@@ -3,7 +3,6 @@
 int main()
 {
     int number;
-    
     int *pointer;
 
     number = 10;
