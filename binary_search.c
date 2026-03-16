@@ -82,7 +82,7 @@
       {
          high = middle - 1 ;
       }
-   };
+   }
 
    if (found != 1)
    {
