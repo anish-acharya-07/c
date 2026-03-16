@@ -9,12 +9,12 @@ int main()
 
     if(number % 2 == 0)
     {
-        printf("%d is even",number);
+        printf("\n%d is even\n\n",number);
     }
     
     else
     {
-        printf("%d is odd",number);
+        printf("\n%d is odd\n\n",number);
     }
 
     return 0;
